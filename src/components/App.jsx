@@ -5,7 +5,7 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 import axios from "axios";
 //post request statement:-
-// axios.post("http://localhost:3000/NewNoteAdded",{notes}).then(function(res){console.log(res)}).catch(function(err){console.log(err)});
+// axios.post("https://note-vault-server.onrender.com/NewNoteAdded",{notes}).then(function(res){console.log(res)}).catch(function(err){console.log(err)});
 
 //How to use the function 'useEffect(0'
 
@@ -16,7 +16,7 @@ function App() {
 
    
       axios
-      .get("http://localhost:3000/notes")
+      .get("https://note-vault-server.onrender.com/notes")
       .then(function(response){
       //if we get our response which will be a list of documents of notes
       setNotes(response.data);
@@ -40,7 +40,7 @@ function App() {
       return [...prevNotes, newNote];
     });
     axios
-    .post("http://localhost:3000/NewNoteAdded",
+    .post("https://note-vault-server.onrender.com/NewNoteAdded",
     {title:newNote.title,
     content:newNote.content})
     .then(function(res){console.log(res.data)})
@@ -56,7 +56,7 @@ function App() {
       });
     });
     axios
-    .delete("http://localhost:3000/deleteNote/"+notes[id].title)
+    .delete("https://note-vault-server.onrender.com/deleteNote/"+notes[id].title)
     .then(function(res){  
       console.log("successfully deleted the required note element !!")
     })
