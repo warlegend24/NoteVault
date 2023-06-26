@@ -4,7 +4,6 @@ import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
 import axios from "axios";
-import { use } from "bcrypt/promises";
 //post request statement:-
 // axios.post("http://localhost:3000/NewNoteAdded",{notes}).then(function(res){console.log(res)}).catch(function(err){console.log(err)});
 

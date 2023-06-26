@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import AddCircleIcon from '@mui/icons-material/AddCircle';
 import Zoom from '@mui/material/Zoom';
-import axios from "axios";
 function CreateArea(props) {
 
   const [isExpanded, setIsExpanded ] = useState(false);
