@@ -9,12 +9,11 @@ html {
 body {
   background-color: #ffffff;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
-  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
   padding: 0 16px;
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #576CBC;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
