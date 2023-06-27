@@ -1,0 +1,78 @@
+[33mcommit c93ef751056af69fbc56257a995b34b9a6a37cc6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Tue Jun 27 12:41:11 2023 +0530
+
+    reverted back to initail stage
+
+[33mcommit 01d13c9b08a9f2c8461b4c372d2f07c3d4b0a257[m
+Merge: b7c4772 d26cc7c
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Tue Jun 27 12:32:45 2023 +0530
+
+    Merge branch 'main' of https://github.com/warlegend24/NoteVault
+
+[33mcommit b7c47725b723262782539823b8b7133cd2313dc4[m
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Tue Jun 27 11:45:19 2023 +0530
+
+    updated the bg-color of the app
+
+[33mcommit d26cc7c6fe6b69eea195cd6cb4a3bf972a37d670[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: warlegend24 <96477955+warlegend24@users.noreply.github.com>
+Date:   Tue Jun 27 11:40:31 2023 +0530
+
+    Update styles.css
+
+[33mcommit 1d8bd10d19ba1b282056675414423ec42d9b7d79[m
+Author: warlegend24 <96477955+warlegend24@users.noreply.github.com>
+Date:   Tue Jun 27 11:33:23 2023 +0530
+
+    Update Header.jsx
+
+[33mcommit bb69a539df09557987c47e60ac15bedd770b26a8[m
+Author: warlegend24 <96477955+warlegend24@users.noreply.github.com>
+Date:   Tue Jun 27 11:32:20 2023 +0530
+
+    Update index.html
+
+[33mcommit f6a1046559bb52763b9e84d25c089391165c8cfb[m
+Author: warlegend24 <96477955+warlegend24@users.noreply.github.com>
+Date:   Mon Jun 26 22:28:52 2023 +0530
+
+    Update README.md
+
+[33mcommit 71cc2d161fb9c3428e8ef4e2626387bc502f6483[m
+Author: warlegend24 <96477955+warlegend24@users.noreply.github.com>
+Date:   Mon Jun 26 22:25:23 2023 +0530
+
+    Update README.md
+
+[33mcommit 5a57a5e2e6c8fc698e3a0aad35c1ca7dbdf3df64[m
+Author: warlegend24 <96477955+warlegend24@users.noreply.github.com>
+Date:   Mon Jun 26 22:25:01 2023 +0530
+
+    Create README.md
+
+[33mcommit aa735a8c63bd82271518edcd241db0c9fa0f6212[m
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Mon Jun 26 22:14:56 2023 +0530
+
+    replaced the connection links between the front-end(client) and the backend according to render links
+
+[33mcommit 9198219a54b3d275948eb7c559c26b4310989694[m
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Mon Jun 26 21:06:13 2023 +0530
+
+    removed some bug to deploy react-app using netlify
+
+[33mcommit 6052a289a034adbfabec8756846f6dd3258c77db[m
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Mon Jun 26 21:01:23 2023 +0530
+
+    deleted the build folder
+
+[33mcommit 709268bd5df66aa4d8d3b434fe82eac394445eea[m
+Author: Warlegend <harmansinghsuri24@gmail.com>
+Date:   Mon Jun 26 20:43:11 2023 +0530
+
+    Initial Commit
